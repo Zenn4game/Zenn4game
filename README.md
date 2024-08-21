@@ -2,6 +2,5 @@
 - 👀 I’m interested in game development, particularly in creating immersive worlds and innovative gameplay mechanics.
 - 🌱 I’m currently learning Unreal Engine and advanced C++ programming to bring my game ideas to life.
 - 💞️ I’m looking to collaborate on indie game projects, especially those that push the boundaries of storytelling in games.
-- 📫 How to reach me: You can contact me via Twitter @Zenn4game or email at zenn4game@gameworlds.dev.
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he
 - ⚡ Fun fact: I once built a text-based RPG in Python that adapts its story based on the player's mood!
